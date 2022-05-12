@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wassimhaimoudi
 - 👀 I’m interested in music, sound design, and audio proccessing
 - 🌱 I’m currently learning MySQL, Python and C++ languages 
-- 💞️ I’m looking to collaborate on creating a VST plugin
+- 💞️ I’m looking to collaborate on creating a VST plug-in
 - 📫 How to reach me : wassimhaimoudi1@gmail.com
 -  My links:
 -  instagram.com/whaimoudi
